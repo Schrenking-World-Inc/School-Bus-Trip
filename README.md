@@ -6,4 +6,4 @@ The School Bus Trip app is for assisting drivers when going on a trip to a parti
 
 The School Bus Trip app is a web based app to assist bus drivers in finding the best routes and dropoff and pickup options on a trip.  After a school bus driver goes on a trip, they will access this app and give details on the best route and best dropoff and pickup points, along with best places to park.  Maps and overhead views will be provided to mark the best routes, entrances and exits, dropoff and pickup points, and best places to park.  
 
-When a driver is scheduled to go on a trip, they will access the app and search for listed trips going to their location.
+When a driver is scheduled to go on a trip, they will access the app and search for listed trips going to their location.  If their trip is not listed, they will be prompted to remind them through email or text to return and fill out a trip profile after the trip.
